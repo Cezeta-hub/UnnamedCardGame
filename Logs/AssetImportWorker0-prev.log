@@ -1,0 +1,1478 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 32622 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Programs\Unity Editors\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Cezeta/Desktop/Prototype/Prototype
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53673
+Successfully changed project path to: C:/Users/Cezeta/Desktop/Prototype/Prototype
+C:/Users/Cezeta/Desktop/Prototype/Prototype
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path D:/Programs/Unity Editors/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Cezeta/Desktop/Prototype/Prototype/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2503)
+    Vendor:   NVIDIA
+    VRAM:     12143 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'D:/Programs/Unity Editors/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Programs/Unity Editors/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Programs/Unity Editors/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56336
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Programs/Unity Editors/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000728 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 63.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.775 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001630 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 63.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.693 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3413 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.6 MB.
+System memory in use after: 131.7 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3871.
+Total: 1.527300 ms (FindLiveObjects: 0.161500 ms CreateObjectMapping: 0.089200 ms MarkObjects: 1.194800 ms  DeleteObjects: 0.081200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Pixel Font - Tripfive
+  artifactKey: Guid(bb647020c4e29fc4f8ded5aa9514db43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive using Guid(bb647020c4e29fc4f8ded5aa9514db43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a339f153b66de7a4fe15392d619a6cfb') in 0.003492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Pixel Font - Tripfive/Sample Textmesh.prefab
+  artifactKey: Guid(92d60a2e17d9a4bb8bd3801b14fc2926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Sample Textmesh.prefab using Guid(92d60a2e17d9a4bb8bd3801b14fc2926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61f7899b9a33e1f4785497f497af22b') in 0.024324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Pixel Font - Tripfive/_README.txt
+  artifactKey: Guid(d6c1545eeaccd4df49042a0f57ac774c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/_README.txt using Guid(d6c1545eeaccd4df49042a0f57ac774c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54a75fa7f6d076ffeb95e9f14f3c6d2a') in 0.003925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.086032 seconds.
+  path: Assets/Pixel Font - Tripfive/Textures & Materials
+  artifactKey: Guid(9408d24ccd4c0a04e837856bfca88a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Textures & Materials using Guid(9408d24ccd4c0a04e837856bfca88a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31554a806e0d9db7b9ca9d5d74f5dda8') in 0.001276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.496120 seconds.
+  path: Assets/Pixel Font - Tripfive/Fonts
+  artifactKey: Guid(7a9e2b9a8d7c549d3a46ef8f66cf8c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Fonts using Guid(7a9e2b9a8d7c549d3a46ef8f66cf8c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bb240880f349cb6257be59511e3693') in 0.001272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.086149 seconds.
+  path: Assets/Pixel Font - Tripfive/Fonts/Tripfive-EX.fontsettings
+  artifactKey: Guid(1c10051538e484e849e45b324b9b334b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Fonts/Tripfive-EX.fontsettings using Guid(1c10051538e484e849e45b324b9b334b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b9c356c3e4b280a6304072e7ff5f0aa') in 0.002609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Pixel Font - Tripfive/Fonts/Tripfive-HS.fontsettings
+  artifactKey: Guid(9ebb6ca5ee4094addac513cf8528f1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Fonts/Tripfive-HS.fontsettings using Guid(9ebb6ca5ee4094addac513cf8528f1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0695c1bdefd96646113868be2602a9c') in 0.001876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Pixel Font - Tripfive/Fonts/Tripfive.fontsettings
+  artifactKey: Guid(29821db8324231f4481e730bf6288b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Fonts/Tripfive.fontsettings using Guid(29821db8324231f4481e730bf6288b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371882b46cbdc7a44c368ed490418a4a') in 0.001985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Pixel Font - Tripfive/Fonts/Tripfive-OL.fontsettings
+  artifactKey: Guid(bb2dffc07ad704a28aa9186221cc902e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Fonts/Tripfive-OL.fontsettings using Guid(bb2dffc07ad704a28aa9186221cc902e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e05f60df5e30cb95a716406b9cdf015') in 0.001982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.686660 seconds.
+  path: Assets/TextMesh Pro/Title gradient.asset
+  artifactKey: Guid(6f2a1bc322c9ffb4799e4ccb3481451d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Title gradient.asset using Guid(6f2a1bc322c9ffb4799e4ccb3481451d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785e78320b8525e5eeb4b74710c6e2ce') in 0.002618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 108.730308 seconds.
+  path: Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-EX.mat
+  artifactKey: Guid(df856cdb9110140419b5d535c1a57636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-EX.mat using Guid(df856cdb9110140419b5d535c1a57636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada1973817eeb0793e94f38262eacc9a') in 0.085668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-OL.png
+  artifactKey: Guid(7f4dc74417f0147a5804b21c72feb54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-OL.png using Guid(7f4dc74417f0147a5804b21c72feb54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc3bc035f2c68dbf6561a8058ed7d0e') in 0.038506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-EX.png
+  artifactKey: Guid(c7fc78e82ec0e4f8d94421658d7e9d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-EX.png using Guid(c7fc78e82ec0e4f8d94421658d7e9d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a393515d3ce0a805bc7c96b390ae03') in 0.005346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-OL.mat
+  artifactKey: Guid(944e0f2f3fa144416ac5be1a8e188dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-OL.mat using Guid(944e0f2f3fa144416ac5be1a8e188dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da407aa2329a0481808de70f99798a0') in 0.004437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-HS.mat
+  artifactKey: Guid(a8a2064660ecc42fab77221fa24060bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-HS.mat using Guid(a8a2064660ecc42fab77221fa24060bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51f5f87151a4730e48d437ee0ff19807') in 0.004568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive.mat
+  artifactKey: Guid(c81f8d7093fca4469b1d13a985e9ae72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive.mat using Guid(c81f8d7093fca4469b1d13a985e9ae72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a487886f0e43f5079d969c55d24d2b') in 0.004587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive.png
+  artifactKey: Guid(39422f6e3935840dcad79a6988ba0993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive.png using Guid(39422f6e3935840dcad79a6988ba0993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c440341667bf538ef98fb41033c9dede') in 0.004509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-HS.png
+  artifactKey: Guid(17eb1212ce5bf4e72bb6768c2efedaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Font - Tripfive/Textures & Materials/Tripfive-HS.png using Guid(17eb1212ce5bf4e72bb6768c2efedaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6e2139f48344a5fcb3e0dc5d312fbff') in 0.004534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 433.618916 seconds.
+  path: Assets/Thaleah_PixelFont/ThaleahFat.fontsettings
+  artifactKey: Guid(652f7165b7c30ab46af6c4aad90a639b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thaleah_PixelFont/ThaleahFat.fontsettings using Guid(652f7165b7c30ab46af6c4aad90a639b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f80a1d24556b81a71ccacf204d4070') in 0.002291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.612742 seconds.
+  path: Assets/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf
+  artifactKey: Guid(585188cdc4600544eb408bee749e4b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf using Guid(585188cdc4600544eb408bee749e4b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec54f1d191697a93ad5e727b8edc8c4') in 0.014848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 79.983468 seconds.
+  path: Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png
+  artifactKey: Guid(b324a4685d480b346b084e8a5dbacbde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png using Guid(b324a4685d480b346b084e8a5dbacbde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1516650a54d5ba404db791053bacdc') in 0.008027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Thaleah_PixelFont/Materials/ThaleahFat.mat
+  artifactKey: Guid(43d59b5c638b0664db55f3a4e4d130ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thaleah_PixelFont/Materials/ThaleahFat.mat using Guid(43d59b5c638b0664db55f3a4e4d130ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1045e01dd06d2f9839c20ea938e3eb8d') in 0.004797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Thaleah_PixelFont/Materials/ThaleahFat.png
+  artifactKey: Guid(0ac691dd25a276d468ee89cf1948229d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thaleah_PixelFont/Materials/ThaleahFat.png using Guid(0ac691dd25a276d468ee89cf1948229d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7181deb81345b3a6919a19f2d9e11c1') in 0.004462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.880289 seconds.
+  path: Assets/Thaleah_PixelFont/Thaleah_Demo.unity
+  artifactKey: Guid(180143f4a57f2124dae57257c95bc10a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thaleah_PixelFont/Thaleah_Demo.unity using Guid(180143f4a57f2124dae57257c95bc10a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8243e959cf0c2b44222e5e6241f5c7a8') in 0.001717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.743218 seconds.
+  path: Assets/Thaleah_PixelFont/Materials
+  artifactKey: Guid(5bbfc5203b36a9040838fe59081d4888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thaleah_PixelFont/Materials using Guid(5bbfc5203b36a9040838fe59081d4888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '458cef462cbdaee51d73b6104737c742') in 0.001927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.320534 seconds.
+  path: Assets/Thaleah_PixelFont
+  artifactKey: Guid(22944160f1582f943982a73afac7f678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thaleah_PixelFont using Guid(22944160f1582f943982a73afac7f678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0d2bdf0441cfd61064bb618b773d8ab') in 0.001418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.932307 seconds.
+  path: Assets/TextMesh Pro/Fonts
+  artifactKey: Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts using Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c860dfdf0522eec1202f36843e52d436') in 0.040225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.803229 seconds.
+  path: Assets/Thaleah_PixelFont/Thaleah_Readme.pdf
+  artifactKey: Guid(2b9a81d04b64ba846b895089734b9415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thaleah_PixelFont/Thaleah_Readme.pdf using Guid(2b9a81d04b64ba846b895089734b9415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb40e7248b05aff510fde2da11c350a9') in 0.003465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.745024 seconds.
+  path: Assets/Resources/Sprites/Button.png
+  artifactKey: Guid(9ae3e696da5d2814aa30e8d8909ced39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sprites/Button.png using Guid(9ae3e696da5d2814aa30e8d8909ced39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec2c69edc8294a38b4ad2d1adc624dcc') in 0.007469 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001494 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.633 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3403 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4047.
+Total: 1.711800 ms (FindLiveObjects: 0.168500 ms CreateObjectMapping: 0.093900 ms MarkObjects: 1.370800 ms  DeleteObjects: 0.078000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001474 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.600 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.1 MB.
+System memory in use after: 138.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4051.
+Total: 1.598400 ms (FindLiveObjects: 0.173000 ms CreateObjectMapping: 0.092600 ms MarkObjects: 1.261100 ms  DeleteObjects: 0.071000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001776 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.706 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.1 MB.
+System memory in use after: 138.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4055.
+Total: 1.738700 ms (FindLiveObjects: 0.157300 ms CreateObjectMapping: 0.068100 ms MarkObjects: 1.441400 ms  DeleteObjects: 0.071200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001511 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.605 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.2 MB.
+System memory in use after: 138.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4059.
+Total: 1.562000 ms (FindLiveObjects: 0.156500 ms CreateObjectMapping: 0.077100 ms MarkObjects: 1.261000 ms  DeleteObjects: 0.066900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001541 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.592 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.2 MB.
+System memory in use after: 138.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4063.
+Total: 1.559200 ms (FindLiveObjects: 0.153300 ms CreateObjectMapping: 0.073800 ms MarkObjects: 1.266400 ms  DeleteObjects: 0.065000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001537 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.632 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.2 MB.
+System memory in use after: 138.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4067.
+Total: 1.579800 ms (FindLiveObjects: 0.176400 ms CreateObjectMapping: 0.088500 ms MarkObjects: 1.245600 ms  DeleteObjects: 0.068600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001652 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.639 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.2 MB.
+System memory in use after: 138.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4071.
+Total: 1.512300 ms (FindLiveObjects: 0.159900 ms CreateObjectMapping: 0.075900 ms MarkObjects: 1.207100 ms  DeleteObjects: 0.068700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001555 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.595 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.2 MB.
+System memory in use after: 138.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4075.
+Total: 1.551200 ms (FindLiveObjects: 0.161100 ms CreateObjectMapping: 0.075900 ms MarkObjects: 1.243800 ms  DeleteObjects: 0.069600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001546 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.647 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 138.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4079.
+Total: 1.794400 ms (FindLiveObjects: 0.180700 ms CreateObjectMapping: 0.088300 ms MarkObjects: 1.444500 ms  DeleteObjects: 0.080100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001452 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.610 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 138.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4083.
+Total: 1.524300 ms (FindLiveObjects: 0.164700 ms CreateObjectMapping: 0.080600 ms MarkObjects: 1.210000 ms  DeleteObjects: 0.068300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001491 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.585 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 138.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4087.
+Total: 1.523500 ms (FindLiveObjects: 0.167800 ms CreateObjectMapping: 0.079700 ms MarkObjects: 1.209900 ms  DeleteObjects: 0.065600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001527 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.626 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 138.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4091.
+Total: 1.583300 ms (FindLiveObjects: 0.170900 ms CreateObjectMapping: 0.087800 ms MarkObjects: 1.251400 ms  DeleteObjects: 0.072700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001653 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.631 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 138.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4095.
+Total: 1.588700 ms (FindLiveObjects: 0.169900 ms CreateObjectMapping: 0.081000 ms MarkObjects: 1.264600 ms  DeleteObjects: 0.072500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001486 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.589 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 138.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4099.
+Total: 1.658900 ms (FindLiveObjects: 0.163600 ms CreateObjectMapping: 0.078700 ms MarkObjects: 1.343000 ms  DeleteObjects: 0.072800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001559 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.628 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 138.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4103.
+Total: 1.659600 ms (FindLiveObjects: 0.188100 ms CreateObjectMapping: 0.090200 ms MarkObjects: 1.307600 ms  DeleteObjects: 0.072900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001460 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.578 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 138.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4107.
+Total: 1.736400 ms (FindLiveObjects: 0.160500 ms CreateObjectMapping: 0.070300 ms MarkObjects: 1.437300 ms  DeleteObjects: 0.067800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001478 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.587 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 138.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4111.
+Total: 1.568400 ms (FindLiveObjects: 0.159300 ms CreateObjectMapping: 0.090300 ms MarkObjects: 1.249500 ms  DeleteObjects: 0.068400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001521 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.595 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4115.
+Total: 1.560000 ms (FindLiveObjects: 0.165200 ms CreateObjectMapping: 0.080600 ms MarkObjects: 1.247600 ms  DeleteObjects: 0.065900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001551 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.619 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4119.
+Total: 1.738800 ms (FindLiveObjects: 0.159500 ms CreateObjectMapping: 0.078200 ms MarkObjects: 1.428800 ms  DeleteObjects: 0.071100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001551 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.603 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4123.
+Total: 1.532900 ms (FindLiveObjects: 0.158500 ms CreateObjectMapping: 0.074700 ms MarkObjects: 1.235600 ms  DeleteObjects: 0.063200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001391 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.598 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4127.
+Total: 1.495000 ms (FindLiveObjects: 0.156200 ms CreateObjectMapping: 0.065600 ms MarkObjects: 1.204500 ms  DeleteObjects: 0.068000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001569 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.599 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4131.
+Total: 1.523400 ms (FindLiveObjects: 0.158500 ms CreateObjectMapping: 0.066700 ms MarkObjects: 1.231700 ms  DeleteObjects: 0.065800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001471 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.584 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4135.
+Total: 1.511200 ms (FindLiveObjects: 0.159300 ms CreateObjectMapping: 0.072900 ms MarkObjects: 1.210200 ms  DeleteObjects: 0.067900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001523 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.599 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4139.
+Total: 1.533800 ms (FindLiveObjects: 0.162700 ms CreateObjectMapping: 0.078300 ms MarkObjects: 1.221400 ms  DeleteObjects: 0.070400 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4139.
+Total: 1.749500 ms (FindLiveObjects: 0.155600 ms CreateObjectMapping: 0.076300 ms MarkObjects: 1.455200 ms  DeleteObjects: 0.061900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001503 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.604 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4143.
+Total: 1.689200 ms (FindLiveObjects: 0.158400 ms CreateObjectMapping: 0.072500 ms MarkObjects: 1.387100 ms  DeleteObjects: 0.070400 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4143.
+Total: 1.527400 ms (FindLiveObjects: 0.154900 ms CreateObjectMapping: 0.073400 ms MarkObjects: 1.236400 ms  DeleteObjects: 0.062100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5928.535239 seconds.
+  path: Assets/Resources/Sprites/WinDialog.png
+  artifactKey: Guid(01450cf82ad28114784072f56335dc9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sprites/WinDialog.png using Guid(01450cf82ad28114784072f56335dc9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281c526859320b95f933e9f2c5de9db8') in 0.059239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.130664 seconds.
+  path: Assets/Resources/Sprites/WinDialog.png
+  artifactKey: Guid(01450cf82ad28114784072f56335dc9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sprites/WinDialog.png using Guid(01450cf82ad28114784072f56335dc9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf77c9bfc1d4f4dee172c0e9d168f05') in 0.007079 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001637 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.599 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3396 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.4 MB.
+System memory in use after: 139.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4179.
+Total: 1.617700 ms (FindLiveObjects: 0.172200 ms CreateObjectMapping: 0.080900 ms MarkObjects: 1.293300 ms  DeleteObjects: 0.070400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001406 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.605 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.4 MB.
+System memory in use after: 139.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4183.
+Total: 1.619600 ms (FindLiveObjects: 0.166000 ms CreateObjectMapping: 0.078200 ms MarkObjects: 1.307000 ms  DeleteObjects: 0.067400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001524 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.616 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.4 MB.
+System memory in use after: 139.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4187.
+Total: 1.702600 ms (FindLiveObjects: 0.190900 ms CreateObjectMapping: 0.085900 ms MarkObjects: 1.351400 ms  DeleteObjects: 0.073600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001501 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.595 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.4 MB.
+System memory in use after: 139.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4191.
+Total: 1.643300 ms (FindLiveObjects: 0.168700 ms CreateObjectMapping: 0.078100 ms MarkObjects: 1.328200 ms  DeleteObjects: 0.067500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001504 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.626 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.4 MB.
+System memory in use after: 139.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4195.
+Total: 1.710100 ms (FindLiveObjects: 0.178100 ms CreateObjectMapping: 0.086000 ms MarkObjects: 1.376700 ms  DeleteObjects: 0.068400 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4195.
+Total: 1.669500 ms (FindLiveObjects: 0.156400 ms CreateObjectMapping: 0.077700 ms MarkObjects: 1.372200 ms  DeleteObjects: 0.062600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 618.652843 seconds.
+  path: Assets/Resources/Sprites/LoseDialog.png
+  artifactKey: Guid(9fcb458de566d82489a1d9ca30d42b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sprites/LoseDialog.png using Guid(9fcb458de566d82489a1d9ca30d42b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d231fc8be85c01be728023369645f6') in 0.040111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.630312 seconds.
+  path: Assets/Resources/Sprites/LoseDialog.png
+  artifactKey: Guid(9fcb458de566d82489a1d9ca30d42b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sprites/LoseDialog.png using Guid(9fcb458de566d82489a1d9ca30d42b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab22fdb34c11f2e5ce4f645a6ffb04a') in 0.006016 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001527 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.636 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3396 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4231.
+Total: 1.762300 ms (FindLiveObjects: 0.202000 ms CreateObjectMapping: 0.068300 ms MarkObjects: 1.423900 ms  DeleteObjects: 0.067500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001530 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.589 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4235.
+Total: 1.627000 ms (FindLiveObjects: 0.163200 ms CreateObjectMapping: 0.075600 ms MarkObjects: 1.321900 ms  DeleteObjects: 0.065600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001518 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.613 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4239.
+Total: 1.698800 ms (FindLiveObjects: 0.182800 ms CreateObjectMapping: 0.088200 ms MarkObjects: 1.354200 ms  DeleteObjects: 0.072900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001525 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.597 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4243.
+Total: 1.650800 ms (FindLiveObjects: 0.164800 ms CreateObjectMapping: 0.077200 ms MarkObjects: 1.340100 ms  DeleteObjects: 0.067500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.4 MB.
+System memory in use after: 73.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4243.
+Total: 1.741100 ms (FindLiveObjects: 0.181100 ms CreateObjectMapping: 0.077300 ms MarkObjects: 1.416100 ms  DeleteObjects: 0.066000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 531.302663 seconds.
+  path: Assets/Scenes/MAIN_MENU.unity
+  artifactKey: Guid(ce663faecb6ffc34caa0f7bf1416b6ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MAIN_MENU.unity using Guid(ce663faecb6ffc34caa0f7bf1416b6ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb846f04ac4ae2a984019274ceb684f4') in 0.009154 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001534 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.611 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4247.
+Total: 1.639800 ms (FindLiveObjects: 0.178800 ms CreateObjectMapping: 0.085800 ms MarkObjects: 1.304100 ms  DeleteObjects: 0.070300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001480 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.589 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4251.
+Total: 1.623200 ms (FindLiveObjects: 0.161400 ms CreateObjectMapping: 0.078300 ms MarkObjects: 1.316300 ms  DeleteObjects: 0.066500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.559029 seconds.
+  path: Assets/Scenes/_SCENE_.unity
+  artifactKey: Guid(09282a6d84e8398409f163184aa67410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/_SCENE_.unity using Guid(09282a6d84e8398409f163184aa67410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9ea9d5b9895fa96d0b03321073e2c9') in 0.009001 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001525 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.627 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.5 MB.
+System memory in use after: 140.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4255.
+Total: 1.661700 ms (FindLiveObjects: 0.193000 ms CreateObjectMapping: 0.089100 ms MarkObjects: 1.309000 ms  DeleteObjects: 0.069900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001393 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.604 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.5 MB.
+System memory in use after: 140.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4259.
+Total: 1.729700 ms (FindLiveObjects: 0.181600 ms CreateObjectMapping: 0.099600 ms MarkObjects: 1.369500 ms  DeleteObjects: 0.078300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001502 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.598 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.5 MB.
+System memory in use after: 140.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4263.
+Total: 1.633700 ms (FindLiveObjects: 0.174400 ms CreateObjectMapping: 0.079300 ms MarkObjects: 1.309200 ms  DeleteObjects: 0.070000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001545 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.589 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.5 MB.
+System memory in use after: 140.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4267.
+Total: 1.717200 ms (FindLiveObjects: 0.165200 ms CreateObjectMapping: 0.075100 ms MarkObjects: 1.409600 ms  DeleteObjects: 0.066500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.752141 seconds.
+  path: Assets/Resources/Prefabs/Enemy.prefab
+  artifactKey: Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Enemy.prefab using Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28e999eedadfa5f6070fc4b9913e075d') in 0.043472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.385118 seconds.
+  path: Assets/Resources/Prefabs/Enemy.prefab
+  artifactKey: Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Enemy.prefab using Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3baf3289d1d31a0cf6f136a2fe10385b') in 0.007138 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001381 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.653 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4271.
+Total: 1.625300 ms (FindLiveObjects: 0.177800 ms CreateObjectMapping: 0.080700 ms MarkObjects: 1.298000 ms  DeleteObjects: 0.067900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001423 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.624 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4275.
+Total: 1.630000 ms (FindLiveObjects: 0.172200 ms CreateObjectMapping: 0.081000 ms MarkObjects: 1.305800 ms  DeleteObjects: 0.070300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001434 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.629 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4279.
+Total: 2.388900 ms (FindLiveObjects: 0.178600 ms CreateObjectMapping: 0.084500 ms MarkObjects: 2.054700 ms  DeleteObjects: 0.070600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001413 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.604 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4283.
+Total: 1.621800 ms (FindLiveObjects: 0.174800 ms CreateObjectMapping: 0.083600 ms MarkObjects: 1.295000 ms  DeleteObjects: 0.067600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001445 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.610 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4287.
+Total: 1.659000 ms (FindLiveObjects: 0.177100 ms CreateObjectMapping: 0.077600 ms MarkObjects: 1.338500 ms  DeleteObjects: 0.065100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001371 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.613 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4291.
+Total: 1.609900 ms (FindLiveObjects: 0.171200 ms CreateObjectMapping: 0.076400 ms MarkObjects: 1.295300 ms  DeleteObjects: 0.066100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001424 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.624 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4295.
+Total: 1.590600 ms (FindLiveObjects: 0.168800 ms CreateObjectMapping: 0.076800 ms MarkObjects: 1.280400 ms  DeleteObjects: 0.063900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001477 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.605 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4299.
+Total: 1.613100 ms (FindLiveObjects: 0.172100 ms CreateObjectMapping: 0.077600 ms MarkObjects: 1.298100 ms  DeleteObjects: 0.064800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001526 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.609 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4303.
+Total: 1.680100 ms (FindLiveObjects: 0.174200 ms CreateObjectMapping: 0.078000 ms MarkObjects: 1.362100 ms  DeleteObjects: 0.065000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.303035 seconds.
+  path: Assets/Resources/Prefabs/Enemy.prefab
+  artifactKey: Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Enemy.prefab using Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845a26cd4ea76d1a55298a9e4cb28e45') in 0.045445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.897036 seconds.
+  path: Assets/Resources/Prefabs/Enemy.prefab
+  artifactKey: Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Enemy.prefab using Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87724d1490f6e989386e287906c8779e') in 0.007696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.809137 seconds.
+  path: Assets/Resources/Prefabs/Enemy.prefab
+  artifactKey: Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Enemy.prefab using Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d5e372f35dc2778c1bdf3fe38b6ea7b') in 0.006493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.228739 seconds.
+  path: Assets/Resources/Prefabs/Enemy.prefab
+  artifactKey: Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Enemy.prefab using Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e866db99ba687981874dcc1195e11d') in 0.006486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.589340 seconds.
+  path: Assets/Resources/Prefabs/Enemy.prefab
+  artifactKey: Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Enemy.prefab using Guid(d9900557e0b940f468d650dc20d1dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04f7116f0d35f9b4dc9ff293b691d5e') in 0.006279 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001695 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cezeta\Desktop\Prototype\Prototype\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.686 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4307.
+Total: 2.025100 ms (FindLiveObjects: 0.175000 ms CreateObjectMapping: 0.076000 ms MarkObjects: 1.689500 ms  DeleteObjects: 0.083400 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.2 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4307.
+Total: 1.624100 ms (FindLiveObjects: 0.166400 ms CreateObjectMapping: 0.072200 ms MarkObjects: 1.318700 ms  DeleteObjects: 0.065900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
